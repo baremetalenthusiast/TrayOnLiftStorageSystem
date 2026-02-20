@@ -1,6 +1,6 @@
 | Component | Function | Load / Requirement | Source / Notes | Quantity/Length |
 | --- | --- | --- | --- | --- |
-| Chain | Drive the carriage up and down the mast | (client specification) | Prototype build: Engine chain/salvage | depends on frame design |
+| Chain | Drive the carriage up and down the mast | (client specification) | Prototype build: Engine chain/salvage | TBD frame design |
 | Sprocket | Couple the chains together, link to the worm drive | pitch matching chain, load rated for (client spec), WLL on teeth for torque applied | Prototype Build: old engine/motorbike. Finished Product: off the shelf rated product | 2 (4? depends on loadmax) |
 | Shaft | Couple sprocket to worm drive | Torque rated for force coming off of sprocket/drive. Tout​=Tworm​×Gear Ratio×η | Steel round bar, must be solid + rated to torque | TBD frame design |
 | Worm Drive | Provide mechanical leverage to lift carriage+load up and down mast | Manufacturer SPEC:<br>Rated output torque<br>Maximum static torque<br>Back-driving torque (if self-locking) | Tough to trace down salvage, will need to purchase off of shelf | 1 (1 spare?) |
