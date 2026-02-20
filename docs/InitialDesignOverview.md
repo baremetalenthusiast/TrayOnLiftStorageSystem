@@ -6,17 +6,23 @@ Max Load of approx 700kg (+100kg as maximum theoretical)
 
 ### Max lift height?
 
+(client response)
 
+### Is it manual or motorized?
 
-### Is it manually or motorized?
+Manual with option for hand drill
 
 ### What’s the workspace footprint?
+
+(client response)
 
 ## Constraints
 
 ### Weight, space, budget
 
-### Safety (you’re lifting real loads)
+(client response)
+
+### Safety
 
 ### Parts availability (chains, sprockets, motors)
 
@@ -24,9 +30,15 @@ Max Load of approx 700kg (+100kg as maximum theoretical)
 
 ### Lift mechanism: chain, cable, scissor, lead screw?
 
-### Drive: manual, motorized (DC motor, stepper)?
+chain driven
+
+### Drive
+
+Worm drive driven by geared system with attachment for a hand drill
 
 ### Frame material & structure: steel, aluminum?
+
+box steel
 
 ## Safety considerations
 
